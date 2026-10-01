@@ -57,7 +57,7 @@ box(2, 34, 15, 15, C_ENC, "Agent trajectories",
 box(21, 34, 17, 15, C_ENC, "Trajectory encoder",
     "itemset transactions\n(29 items)\n+\ncommand-family\nprojections (58 syms)")
 box(42, 34, 20, 15, C_GPU, "Itemset layer (GPU)",
-    "AnyFIM / TensorFIM\n[15,16]\nsupport-ordered MFI\nstream, 29 stages\n(no threshold \u03c3)")
+    "two unpublished\nengines\nsupport-ordered MFI\nstream, 29 stages\n(no threshold σ)")
 box(66, 34, 15, 15, C_OUT, "Contrast annotation",
     "failing vs\nsucceeding pool\ncontrast c(X)\n1,581 signatures")
 box(85, 34, 13, 15, C_OUT, "Evidence packs",

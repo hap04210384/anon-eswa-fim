@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Figure 5 (new): anatomy of the 29-stage anytime stream (AnyFIM engine).
+"""Figure 5 (new): anatomy of the 29-stage anytime stream (anytime itemset engine).
 Left y-axis : cumulative number of maximal frequent itemsets (MFIs) delivered
               as each stage arrives (MFIsNumPerStage, cumsum) - step curve.
 Right y-axis: per-stage absolute support floor (frequencyThrePerStage).
-Data: AnyFIM-Anytime engine Results file (29 stages, full mining pool,
+Data: anytime itemset engine Results file (29 stages, full mining pool,
       997 failing transactions, dimension 29).
 Pure-vector matplotlib -> SVG (text as paths) -> EMF for Word embedding.
 """
@@ -26,7 +26,7 @@ _WS_ENGINE = (r"E:\20260928-paper-application of AnyFIM and TensorFIM\kimi_work"
           r"\03_reproducibility\code\Anytime-Frequent-Itemset-Mining\code"
           r"\AnyFIM-Anytime\AnytimeMining\x64\TransactionSets"
           r"\swebench_mine.txt-29-stages=Results.txt")
-_PKG_ENGINE = (r"..\engine\AnyFIM-Anytime\AnytimeMining\x64\TransactionSets"
+_PKG_ENGINE = (r"..\engine\anytime-itemset-engine\AnytimeMining\x64\TransactionSets"
                r"\swebench_mine.txt-29-stages=Results.txt")
 ENGINE = _PKG_ENGINE if os.path.exists(_PKG_ENGINE) else _WS_ENGINE
 

@@ -2,7 +2,7 @@
 from pathlib import Path
 """M3 WebArena two-layer mining + guardrail evaluation (generality study).
 
-Itemset layer: AnyFIM anytime engine output
+Itemset layer: anytime engine output
   (AnytimeMining/x64/TransactionSets/webarena_mine.txt-19-stages=Results.txt)
 annotated with succeeding-pool supports -> signature stream with contrast c'.
 Sequence layer: parametrized miner from m4a_recall_sweep.mine with the same

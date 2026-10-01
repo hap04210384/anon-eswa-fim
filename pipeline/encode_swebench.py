@@ -6,7 +6,7 @@ format) into the two-layer layouts of Sections 3-4.
 Outputs (under 05_experiments/data/encoded/):
   itemmap.tsv              integer item id <-> (dimension,value) string
   transactions_mine.txt    integer item ids per line, one line per FAILING
-                           trajectory of the mining pool (AnyFIM/FP-Growth input)
+                           trajectory of the mining pool (itemset-miner input)
   transactions_mine_succ.txt   same layout, succeeding trajectories (contrast)
   sequences_mine.spmf      SPMF sequence format over symbols, failing pool
   sequences_mine_succ.spmf succeeding pool

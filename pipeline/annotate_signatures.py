@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 from pathlib import Path
-"""Annotate AnyFIM per-stage MFIs with succeeding-pool supports and emit the
+"""Annotate per-stage MFIs with succeeding-pool supports and emit the
 ranked signature stream (Section 4.1 contrast profile c(X)).
 
-Input:  AnyFIM results file (..-stages=Results.txt) written by the anytime
+Input:  engine Results file (..-stages=Results.txt) written by the anytime
         engine into the TransactionSets directory.
 Output: results/signatures.jsonl, one object per signature occurrence:
         {stage, mfi:[str], supp_fail, supp_succ, contrast, n_delivered}

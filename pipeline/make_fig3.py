@@ -2,7 +2,7 @@
 from pathlib import Path
 """Figure 3: anytime quality-budget curves on the SWE-bench mining pool.
 Data sources (all real, 2026-09-28 full-corpus runs):
-  - AnyFIM cumulative per-stage runtime: 05_experiments/logs/anyfim_swebench_full.log
+  - engine cumulative per-stage runtime: 05_experiments/logs/anyfim_swebench_full.log
   - cumulative delivered signatures:      05_experiments/results/signatures.jsonl
   - chain delivery endpoint:              chain_stats.json (15.6 s, 72,972 chains)
   - FP-Growth / PrefixSpan / VMSP grids:  results/baselines_itemset.json,
@@ -27,7 +27,7 @@ plt.rcParams.update({
 
 EXP = str(Path(__file__).resolve().parent.parent) + r""
 
-# ---- AnyFIM per-stage runtime (log: "kth stage MFIsNum: n, runtime: t")
+# ---- per-stage runtime (log: "kth stage MFIsNum: n, runtime: t")
 # NOTE: the engine logs PER-STAGE runtime; cumulative wall-clock = cumsum.
 stages, times, counts = [], [], []
 pat = re.compile(r"(\d+)th stage MFIsNum: (\d+), runtime: ([\d.eE+-]+)")

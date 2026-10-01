@@ -11,7 +11,7 @@ encoded datasets, and all result files reported in the paper.
 pipeline/    experiment scripts (encoding, mining, guardrails, ablations, figures)
 data/        encoded transaction/sequence files (small, committable) + raw-data downloaders
 results/     every numeric result reported in the paper, as machine-readable JSON/JSONL
-engine/      AnyFIM engine source snapshot (CUDA/VS solution) that produced the itemset streams
+engine/      itemset-engine source snapshot (CUDA/VS solution) that produced the itemset streams
 annotation/  failure-trajectory annotation kit (guide, booklet, blank sheets, adjudicated codes; study complete, Cohen's kappa = 1.0)
 docs/        RESULTS_MANIFEST.md (MD5 anchors for every packaged result file)
 ```
@@ -20,7 +20,7 @@ docs/        RESULTS_MANIFEST.md (MD5 anchors for every packaged result file)
 
 - Python 3.10+ (standard scientific stack: numpy, pandas)
 - Windows + Visual Studio 2022 + CUDA 12.x **only for rebuilding the itemset
-  engine** (`engine/AnyFIM-Anytime`); all Python-layer experiments run on any
+  engine** (`engine/anytime-itemset-engine`); all Python-layer experiments run on any
   OS and do not require a GPU.
 - The classical-miner baselines use the SPMF open-source library v2 (not
   bundled; download from spmf.ca and point `pipeline/run_baselines.py` at it).
@@ -40,27 +40,27 @@ for rel, md5 in man.items():
         bad.append(rel)
 print("OK: all packaged files intact" if not bad else f"MISMATCH: {bad}")
 PY
-python pipeline/guardrail_eval.py   # recompute Table 5 from the packaged encodings
+python pipeline/guardrail_eval.py   # recompute Table 6 from the packaged encodings
 ```
 
 ## Reproduction map (claim in paper -> script -> packaged output)
 
 | Paper location | Claim | Script | Packaged output |
 |---|---|---|---|
-| Table 2 | corpus statistics | `pipeline/encode_swebench.py` (encoding) | `data/encoded/labels_*.csv` |
+| Table 3 | corpus statistics | `pipeline/encode_swebench.py` (encoding) | `data/encoded/labels_*.csv` |
 | 6.1 | 72,972 chains, contrast distribution | `pipeline/sequence_layer.py`, `pipeline/annotate_signatures.py` | `results/chains.jsonl`, `results/signatures.jsonl` |
 | Figure 2 | contrast profile | `pipeline/make_fig_contrast.py` | EMF figure |
-| Table 3 | six-mode failure-mode catalog | `pipeline/m2_sample_annotation.py`, `pipeline/compute_kappa.py` | `annotation/`, `results/m2_kappa.json` |
+| Table 4 | six-mode failure-mode catalog | `pipeline/m2_sample_annotation.py`, `pipeline/compute_kappa.py` | `annotation/`, `results/m2_kappa.json` |
 | Figure 3 | human-catalog agreement (hit-rate, mode distribution) | `pipeline/make_fig3_hitrate.py` | `results/m2_hitrate.json` |
 | Figure 4 | anytime quality-budget curve | `pipeline/make_fig3.py` (+ engine stream, `results/baselines_*.json`) | EMF figure |
 | Figure 5 | 29-stage stream anatomy | `pipeline/make_fig5_stages.py` (engine per-stage Results file in `engine/`) | EMF figure |
-| Table 4 | baseline grid, representative rows | `pipeline/run_baselines.py` | `results/baselines_*.json` |
+| Table 5 | baseline grid, representative rows | `pipeline/run_baselines.py` | `results/baselines_*.json` |
 | Figure 6 | guardrail operating curves | `pipeline/make_fig6_guardrail.py` | `results/guardrail_eval.json`, `results/prefixguard_eval.json` |
-| Table 5 | guardrail sweep | `pipeline/guardrail_eval.py` | `results/guardrail_eval.json` |
-| Table 6 | PrefixGuard side-by-side | `pipeline/eval_prefixguard_swebench.py` (external PrefixGuard repo) | `results/prefixguard_eval.json` |
+| Table 6 | guardrail sweep | `pipeline/guardrail_eval.py` | `results/guardrail_eval.json` |
+| Table 7 | PrefixGuard side-by-side | `pipeline/eval_prefixguard_swebench.py` (external PrefixGuard repo) | `results/prefixguard_eval.json` |
 | 6.3 | learned-monitor baseline | `pipeline/convert_swebench_prefixguard.py`, `pipeline/eval_prefixguard_swebench.py` (external PrefixGuard repo) | `results/prefixguard_eval.json` |
 | Figure 7 | mining-pool sensitivity heatmap | `pipeline/make_fig7_heatmap.py` | `results/m4a_recall_sweep.json` |
-| Table 7 | WebArena cross-corpus contrast | `pipeline/m3_webarena_mining.py` | `results/webarena_mining.json` |
+| Table 8 | WebArena cross-corpus contrast | `pipeline/m3_webarena_mining.py` | `results/webarena_mining.json` |
 | 6.4 | projection/support-floor/mining-pool ablations | `pipeline/ablation_projection.py`, `pipeline/sensitivity_floor.py`, `pipeline/m4a_recall_sweep.py` | `results/ablation_projection.json`, `results/sensitivity_floor.json`, `results/m4a_recall_sweep.json` |
 | 6.5 | WebArena cross-corpus study | `pipeline/encode_webarena.py`, engine (WebArena config, see engine README), `pipeline/m3_webarena_mining.py` | `results/webarena_*.json(l)` |
 | 5.3 | annotation study (complete, kappa = 1.0) | `pipeline/m2_sample_annotation.py`, `pipeline/compute_kappa.py` | `annotation/` |
@@ -81,12 +81,12 @@ python pipeline/guardrail_eval.py   # recompute Table 5 from the packaged encodi
 
 ## Engine build notes (Windows only)
 
-Open `engine/AnyFIM-Anytime/SustainableMining.sln` in Visual Studio 2022 with
+Open `engine/anytime-itemset-engine/SustainableMining.sln` in Visual Studio 2022 with
 CUDA 12.x installed and build `x64|Release`. The packaged `kernel.cu` defaults
 to the SWE-bench failing-pool configuration (`swebench_mine.txt`, 29 stages);
 a commented line switches it to the WebArena configuration (`webarena_mine.txt`,
 19 stages) used for Section 6.5. Input transaction files and the packaged per-stage stream outputs live in
-`engine/AnyFIM-Anytime/AnytimeMining/x64/TransactionSets/`.
+`engine/anytime-itemset-engine/AnytimeMining/x64/TransactionSets/`.
 
 ## License
 
