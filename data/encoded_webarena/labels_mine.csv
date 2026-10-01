@@ -1,0 +1,570 @@
+task,site,resolved,n_steps,intent
+423,shopping_admin,False,6,Mark all Hollister shirts on sale
+547,shopping_admin,False,14,Add a new color option brown to the size S of Phoebe Zipper Sweatshirt
+468,shopping,False,4,Add DkRgVNY Lace Spcling Lingerie Womens Sexy Hollow Out Underwear Bodysuit One 
+298,shopping,False,3,Show the most recent completed order
+196,shopping_admin,False,31,Compare the payment difference of the last 4 cancelled orders and completed orde
+315,gitlab,False,6,List the email address of the top 3 contributors to Pytorch GAN repo, ranked by 
+271,shopping,False,26,Show me products under $46.99 in "makeup remover" category
+649,reddit,False,23,Post in history subreddit about what could diffusion model help the correpong fi
+481,gitlab,False,6,Abishek wants to check my dotfile configurations. Please invite him to the repo 
+602,reddit,False,8,Post my question, "places for new drivers to learn driving in pittsburgh", in a 
+240,shopping,False,28,I am doing a market survey for one stop market, show me the most expensive produ
+324,shopping,False,11,Show me the "chairs" listings by ascending price.
+633,reddit,False,14,Ask for product recommendations for running pants within a budget of $500 in r/s
+459,shopping_admin,False,4,Reduce the price of this product by 10%
+47,shopping,False,3,Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month
+412,gitlab,False,2,Make the LICENSE of byteblaze/accessible-html-content-patterns to Apache License
+386,shopping,False,5,What is the rating of Ugreen lightning to 3.5mm cable. Please round to the neare
+105,gitlab,False,9,Display the list of issues in the OpenAPITools/openapi-generator repository that
+499,shopping_admin,False,7,Update order #304 with the USPS tracking number 13849373987
+651,reddit,False,5,Reply to the post with my comment "Yeah, pittsburgh traffic, you know..."
+222,map,False,12,I am at CMU Pittsburgh, how long it takes to drive to the nearest cold stone ice
+346,shopping_admin,False,13,How many reviews our shop received during 2022?
+269,shopping,False,3,Show me products under $25 in "women shoes" category
+280,shopping,False,6,Provide me with the full names of chargers from Anker, and also share the price 
+167,shopping,False,3,What are the main criticisms of this product? Please extract the relevant senten
+25,shopping,False,4,List out reviewers, if exist, who mention about average print quality
+470,shopping_admin,False,4,Cancel order 302
+441,gitlab,False,21,Update the project site's title to "GIVE ME SPACE"
+525,gitlab,False,31,Star the top four most stared repos in Gitlab
+14,shopping_admin,False,4,Tell me the the number of reviews that our store received by far that mention te
+587,shopping,False,3,Rate my recent purchase of PS3 Remote Controllers with 3 stars, using my nicknam
+660,gitlab,False,31,Create an issue in dotfiles repo with title "add support for oh-my-zsh". Assign 
+213,shopping_admin,False,28,What are the key aspects that the customers don't like about Antonia Racer Tank
+244,shopping_admin,False,6,Show me the email address of the customer who is the most unhappy with Olivia zi
+320,shopping,False,3,How much refund I should expect from my order canlled in Feb 2023, including shi
+637,reddit,False,10,Post in the most appropriate subreddit and ask for recommendations for sony head
+572,shopping,False,5,I recently moved, my address is 654 Aspen Road, House #3, Boston, MA, 02110, upd
+416,gitlab,False,18,Go to the merge request on wcag I have to review, find if the author of the merg
+539,shopping_admin,False,9,Modify the address of order #65 to 789 Pine Lane, San Francisco, CA, 94102
+43,shopping_admin,False,3,List the top 3 search terms in my store
+101,map,False,2,Where is the nearest In-N-Out to Upitts, and what is the walking distance to it?
+382,map,False,4,I am arriving at Carnegie Mellon University. Find the nearby US Citizenship and 
+508,shopping,False,6,Buy the highest rated product from the NS switch pouch category within a budget 
+427,wikipedia,False,4,Find the page of the university that has most Turning Award winners on the map.
+543,shopping_admin,False,8,Update the product description of Bella Tank to highlight the real user positive
+39,map,False,7,Check if the walmart in pittsburgh can be reached in one hour by car from 5600 f
+130,shopping_admin,False,1,What's the total number of items sold in the most recent 5 orders?
+192,shopping,False,3,Tell me the total cost of my latest non-cancelled order?
+606,reddit,False,31,Find a subreddit focused on topics related to NYC, and post my question, "is car
+485,gitlab,False,0,Vinta wants to check my dotfile configurations. Please invite him to the repo as
+119,shopping_admin,False,4,Tell me the reasons why customers like Antonia Racer Tank
+10,map,False,3,Tell me the full address of all US international airports that are within a driv
+445,gitlab,False,10,Update the project site's title to "Hello"
+521,shopping,False,8,Subscribe to the newsletter of OneStopMarket
+664,gitlab,False,16,Open an issue to ask their plans on adding Python 3.11 related resources in awes
+583,reddit,False,1,Create a new forum named PlantsForCatParents, with a description of Cat parents 
+373,map,False,5,Pull up the description page of Whole Foods near Carnegie Mellon on Map
+217,shopping_admin,False,10,What are the key aspects that the customers don't like about Pursuit Tone Band
+338,shopping,False,4,Tell me when I last ordered my toothpaste?
+655,shopping,False,31,Fill the "contact us" form in the site for a refund on the iphone case I bought,
+309,gitlab,False,12,Tell me who has made the most contributions, in terms of number of commits, to t
+226,shopping,False,7,What is the price range for products from Amazon basic?
+342,gitlab,False,3,List all opened issues that ask about OPT model related questions
+163,shopping,False,2,What are the main criticisms of this product? Please extract the relevant senten
+284,shopping,False,31,Show the least expensive shoe storage with a minimum storage capacity of 12 pair
+510,shopping,False,14,Buy the best rating product from "Home Audio Speaker" category with at least 5 r
+474,shopping_admin,False,5,Cancel order 305
+21,shopping,False,3,List out reviewers, if exist, who mention about ear cups being small
+261,shopping,False,3,I want to browse the products in the Headphones category
+612,reddit,False,31,Post a review of my recent reading "big little lies" in the r/books with my comm
+491,shopping_admin,False,5,Notify Sarah Miller in their most recent pending order with message "the order i
+659,gitlab,False,9,Create an issue in empathy-prompts repo with title "Integrating LLMs for better 
+66,reddit,False,2,Among the top 10 post in "books" forum, show me the post URLs that recommand a s
+433,shopping,False,31,Add the product with the lowest per unit price from my open tabs to the shopping
+557,gitlab,False,13,Create a repo named nolan_old_fans with movies directed by Christopher Nolan bef
+288,shopping_admin,False,22,Tell me the name of the customer who has the most cancellations in the history
+124,shopping,False,2,What is the price range of wireless earphone in the One Stop Market?
+566,gitlab,False,13,create a repository named Do it myself that includes a README file with the link
+402,reddit,False,31,Change my reddit bio to "Freelance Web Developer"
+57,map,False,3,Tell me the closest restaurant(s) to university center at Carnegie Mellon Univer
+681,reddit,False,7,Find a GitLab repository related to gan implementation and make a Reddit post li
+449,gitlab,False,13,set the homepage URL on my GitLab profile to https://helloworld.xyz
+115,shopping_admin,False,5,Show me the name of the customers who have expressed dissatisfaction with Chloe 
+396,gitlab,False,31,Fork ChatGPT.
+250,map,False,4,Tell me the coordinates of Apple Store near Pitt in DD format
+334,shopping,False,31,Tell me when I last ordered my muffin cornbread mix?
+668,gitlab,False,8,Submit a merge request for a11yproject.com/redesign branch to be merged into mas
+6,shopping_admin,False,2,What are the top-5 best-selling product in 2023
+623,reddit,False,31,Ask for advice about gift for birthday in a subreddit for relations
+177,gitlab,False,14,Open my latest updated issue that has keyword "homepage content" in its title to
+290,shopping_admin,False,19,Tell me the product SKUs in the most recent cancelled orders of the customer who
+504,shopping_admin,False,8,Make all Selene yoga hoodie as out of stock
+460,shopping_admin,False,4,Reduce the price of this product by 15%
+35,map,False,2,I will arrive Pittsburgh Airport soon. Provide the name of a Hyatt hotel in the 
+641,reddit,False,8,Post a notice on a virtual meetup for Harry Potter enthusiasts on July 8th in th
+489,shopping_admin,False,20,Change the page title of "Privacy Policy" page on my site to "No privacy policy 
+279,shopping,False,3,Provide me with the complete names of Bluetooth headphones from Sony, and also s
+232,shopping,False,3,Get the order number of my most recent pending order
+356,map,False,10,Show the route from SCS CMU in Pittsburgh to the location where the Declaration 
+670,gitlab,False,8,Open a new issue to discuss the implementation of default plugins for .zsh
+597,reddit,False,31,Open the thread of a trending post on the forum "consoles" and subscribe.
+367,map,False,10,Measure distance between Carnegie Mellon University and CVS (closet one) by walk
+203,shopping_admin,False,3,Get the purchase date and order id of the most recent pending order
+248,map,False,2,Tell me the coordinates of Carnegie Mellon Café in DD format
+146,shopping,False,23,What is the size configuration of the picture frame I bought Sep 2022
+451,gitlab,False,9,set the homepage URL on my GitLab profile to www.byteblaze.com
+535,gitlab,False,31,Follow ['Jakub K', 'ghost', 'Benoît Blanchon'] on Gitlab
+53,map,False,8,How long does it take to walk from Univ of Pittsburgh to starbucks on Craig Stre
+529,shopping,False,18,Draft a refund message via their "contact us" form for the bluetooth speaker I b
+562,gitlab,False,10,create a repository named Awesome_DIY_ideas that includes a README file with the
+406,reddit,False,7,Upvote the newest post in future technology subreddit
+18,map,False,7,Compare the time for walking and driving route from AMC Waterfront to Univ of Pi
+392,gitlab,False,3,Post "Good idea" for the merge request related to color ulitity in a11yproject.c
+111,shopping_admin,False,10,Presents the monthly count of successful orders from Feb to Nov 2022 in MM:COUNT
+254,map,False,5,What is the phone number of Western Pennsylvania Hospital
+330,shopping,False,3,How much I spend in March 2023 on shopping at One Stop Market?
+627,reddit,False,26,Create a discussion post about "Harry Potter movie series" in a relevant subredd
+2,shopping_admin,False,10,What is the top-1 best-selling product type in Quarter 1 2022
+182,gitlab,False,10,Open my latest created issue that has homepage content in its title to check if 
+301,shopping,False,3,Show the most recent processing order
+265,wikipedia,False,4,What's the closest national park to Boston? How far is it to drive there?
+495,shopping_admin,False,4,Notify Lily Potter in their most recent pending order with message "Thanks, your
+616,reddit,False,2,Re-post the image of Thanksgiving turkey in this page to funny subreddit and not
+29,reddit,False,31,Tell me the count of comments that have received more downvotes than upvotes for
+437,shopping,False,12,I previously ordered some a table lamp in May 2023 and later cancelled. Can you 
+553,gitlab,False,5,Create a folder named news in gimmiethat.space repo. Within it, create a file na
+62,shopping_admin,False,8,Which customer has completed the most number of orders in the entire history?
+120,shopping_admin,False,4,Tell me the reasons why customers like Ana Running Short
+674,shopping,False,14,Gather the titles of Doc and Pies Arcade Factory Cocktail Arcade Machine reviews
+328,shopping,False,15,Show me the "iphone 12 phone case" listings by price.
+363,map,False,4,Measure distance between Carnegie Mellon University and Carnegie Music Hall by w
+207,gitlab,False,6,How many commits did Eric and Kilian make on 1/3/2023 in total?
+142,shopping,False,24,How much I spent on hair care and hair style shopping during Jan 2023
+109,shopping_admin,False,8,Presents the monthly count of successful orders from Jan to December 2022 in MM:
+455,shopping_admin,False,8,Disable lHelios Endurance Tank from the site, they are facing some quality issue
+531,shopping,False,22,Draft a refund message via their "contact us" form for the phone case I bought M
+138,map,False,4,What is the estimated driving time between the big apple and the city with the m
+173,gitlab,False,3,Open my latest updated issue that has keyword "better" in its title to check if 
+31,reddit,False,5,Tell me the count of comments that have received more downvotes than upvotes for
+500,shopping_admin,False,6,Update order #301 with the DHL tracking number 239028439840
+464,shopping_admin,False,9,Update the product description of Antonia Racer Tank to highlight the real user 
+645,reddit,False,15,Post in books subreddit about what could machine learning help the correpong fie
+236,map,False,10,Where is the nearest pharmacy from Carnegie Mellon I can walk within 20mins
+352,shopping,False,9,List products from nutrition bars and drinks category by ascending price
+319,shopping,False,3,How much refund I should expect from my order canlled in April 2022, including s
+490,shopping_admin,False,8,Change the page title of "About us" page on my site to "Secret".
+658,gitlab,False,31,Create an issue in a11yproject repo with title "401 bad gateway". Assign the iss
+613,reddit,False,14,Post a review of my recent reading "Love story" in the r/books with my comment "
+187,shopping_admin,False,9,Give me the SKU of the products that have 1-3 units left
+304,gitlab,False,2,How many commits did Eric make between Feb 2023 and May 2023?
+289,shopping_admin,False,4,Tell me the email address, name, phone number of the customer who has the most c
+125,shopping,False,3,What is the price range of teeth grinding mouth guard in the One Stop Market?
+432,shopping,False,31,Add the product with the lowest per unit price from my open tabs to the shopping
+556,gitlab,False,10,Create a repo named nolan_honest_fans with movies directed by Christopher Nolan 
+67,reddit,False,2,Among the top 10 post in "books" forum, show me the book names from posts that r
+114,shopping_admin,False,8,Show me the customers who have expressed dissatisfaction with Antonia racer tank
+56,map,False,13,How long does it take to walk from Carnegie Museum of Art to a library at CMU?
+448,gitlab,False,12,set the homepage URL on my GitLab profile to https://egg.tart.com
+567,gitlab,False,6,Invite Jakub Klinkovský and Benoît Blanchon as collaborator to gimmiethat.space 
+403,reddit,False,25,Change my reddit bio to "Awesome Prompt Artist"
+622,reddit,False,31,Ask for advice about sexual harassment in a subreddit for relations
+669,gitlab,False,8,Open a new issue to discuss the implementation of dark mode
+251,map,False,4,Tell me the coordinates of bus stop on the Carnegie art museum side of the stree
+335,shopping,False,31,Tell me when I last ordered my body butter?
+34,map,False,4,I will arrive Pittsburgh Airport soon. Provide the name of a Hyatt hotel in the 
+505,shopping_admin,False,5,Make all Aeno capri as out of stock
+461,shopping_admin,False,4,Increase the price of this product by $11.5
+291,shopping_admin,False,6,Tell me the total spend on products in the most recent cancelled orders of the c
+176,gitlab,False,6,Open my latest updated issue that has keyword "theme editor" in its title to che
+233,shopping,False,3,Get the order number of my most recent complete order
+357,gitlab,False,15,Checkout merge requests requiring my review
+640,reddit,False,8,Post a notice on a virtual meetup for book reading enthusiasts on March 15th in 
+488,shopping_admin,False,31,Change the page title of "Home Page" page on my site to "This is the home page!!
+249,map,False,2,Tell me the coordinates of Western Pennsylvania Hospital Heliport in DD format
+366,map,False,8,Measure distance between CVS (closet one) and UPMC Shadyside by walking
+202,shopping_admin,False,5,Get the date of the most recent canlled order
+671,shopping,False,5,Gather the titles of Sony Computer Entertainment VR reviews with 2 stars and les
+450,gitlab,False,5,set the homepage URL on my GitLab profile to a11yproject.contributor.me
+534,gitlab,False,31,Follow ['Jakub Klinkovský', 'Koushik', 'Vinta Chen'] on Gitlab
+147,shopping,False,10,What is the size configuration of the picture frame I bought 2022
+110,shopping_admin,False,7,Presents the monthly count of successful orders from Jan to Nov 2022 in MM:COUNT
+563,gitlab,False,15,create a repository named fun_thing_to_do that includes a README file with the l
+407,reddit,False,5,Upvote the newest post in deeplearning subreddit
+19,map,False,13,Compare the time for walking and driving route from Carnegie Science Center to C
+52,map,False,15,How long does it take to walk from Carnegie Mellon University to starbucks on Cr
+528,shopping,False,2,Draft a refund message via their "contact us" form for the phone screen protecto
+626,reddit,False,6,Create a discussion post about "Iphone 14" in a relevant subreddit and ask users
+3,shopping_admin,False,31,What are the top-2 best-selling product in 2022
+255,map,False,4,Who is the operator of PIT airport
+331,shopping,False,3,How much I spend in July 2022 on shopping at One Stop Market?
+617,reddit,False,4,Re-post the image of Firework in this page to earthporn subreddit and note "from
+494,shopping_admin,False,3,Notify Alex Thomas in their most recent pending order with message "Yo, your ord
+300,shopping,False,3,Show the most recent pending order
+264,shopping,False,6,I want to browse the products in the Cabinets, Racks & Shelves category
+183,shopping_admin,False,7,Give me the SKU of the products that have 10 units left
+121,shopping_admin,False,22,Tell me the reasons why customers like Circe hooded fleece
+63,shopping_admin,False,10,Which customer(s) has completed the second most number of orders in the entire h
+28,reddit,False,3,Tell me the count of comments that have received more downvotes than upvotes for
+436,shopping,False,31,I previously ordered some a mattress foundation around Feb or March 2023 and lat
+552,gitlab,False,17,Create a folder named real_space in gimmiethat.space repo. Within it, create a f
+362,shopping,False,3,Show me the billing address for order number 00178.
+206,gitlab,False,2,How many commits did Eric make on 3/2?
+675,shopping,False,7,Gather the titles of HORI 3D Surround Gaming Neckset reviews with 2 stars and le
+592,gitlab,False,11,Create a milestone for the upcoming task of cleaning sensitive information start
+454,shopping_admin,False,8,Disable Ryker Tee Crew Neck from the site, they are facing some quality issues.
+530,shopping,False,13,Draft a refund message via their "contact us" form for the kitchen organizer I b
+108,shopping_admin,False,8,Presents the monthly count of successful orders 01/2023-05/2023 in MM:COUNT form
+143,shopping,False,3,How much I spent on home decoration shopping during 1/29/2023
+501,shopping_admin,False,9,Make all Taurus Elements Shell as out of stock
+30,reddit,False,4,Tell me the count of comments that have received more downvotes than upvotes for
+172,gitlab,False,1,Tell me the full names of the repositories where I made contributions and they g
+139,map,False,4,What is the estimated driving time between the hometown of Joe Biden and Bridgep
+318,gitlab,False,7,List the last names of the top 3 contributors to 2019-nCov repo, ranked by the n
+237,map,False,2,Where is the nearest gas station from CMU
+353,shopping,False,11,List products from competative swimwear category by ascending price
+644,reddit,False,17,Post a notice on a virtual meetup for Tears of Kingdom enthusiasts on Dec 15th i
+135,gitlab,False,4,How many commits did Eric and Kilian make to a11yproject on 1/3/2023?
+469,shopping,False,8,Add Light Blue Simple Summer New Low Heels Slippers for Women Fashion Chunky Hee
+422,gitlab,False,5,Set my gitlab status as Out of Office.
+546,shopping_admin,False,16,Update the description of Lucia Cross-Fit Bra to highlight the real user positiv
+603,reddit,False,7,Post my question, "safe and budge apartment to live in nyc", in a subreddit wher
+648,reddit,False,15,Post in dataisbeautiful forum about what could large language models help the co
+480,gitlab,False,9,Invite yjlou as collaborator to solarized-prism-theme
+314,gitlab,False,7,List the name of the top 3 contributors to prime/design repo, ranked by the numb
+270,shopping,False,4,Show me products under $30 in "men shoes" category
+197,shopping_admin,False,2,Get the total payment amount of the last 5 non-cancelled orders
+632,reddit,False,31,Ask for product recommendations for running shoes within a budget of $500 in r/s
+241,shopping,False,6,I am doing a market survey for one stop market, show me the most expensive produ
+325,shopping,False,10,Show me the "mouth night guard" listings by descending price.
+104,gitlab,False,16,Display the list of issues in the keycloak/keycloak repository that have labels 
+387,shopping,False,8,Who gave 4 or 5 stars for phone cases from EYZUTAK
+577,gitlab,False,6,Add the following users to my GitHub timeline item management extension as maint
+413,gitlab,False,10,Make the LICENSE of byteblaze/a11y-syntax-highlighting to one that mandates all 
+458,shopping_admin,False,5,Reduce the price of this product by $5
+46,gitlab,False,2,Check out the most recent open issues
+268,wikipedia,False,11,What's the closest national park to Vinalhaven, ME? How long does it take to bik
+223,map,False,4,I am at CMU Pittsburgh, how long it takes to drive to the nearest Mcdonald's
+347,shopping_admin,False,4,How many reviews our shop received from the beginning of the shop?
+498,shopping_admin,False,9,Update order #306 with the UPS tracking number 55591023930
+650,reddit,False,31,Reply to the post with my comment "I am a big fan of the bookorg"
+471,shopping_admin,False,4,Cancel order 307
+24,shopping,False,2,List out reviewers, if exist, who mention about price being unfair
+166,shopping,False,2,What are the main criticisms of this product? Please extract the relevant senten
+281,shopping,False,4,Please provide me with the complete product names of Oral B brush heads designed
+15,shopping_admin,False,7,Tell me the the number of reviews that our store received by far that mention te
+440,shopping,False,6,I previously ordered some a make up removal kit during summer 2022 and later can
+524,gitlab,False,31,Star the top eight most stared repos in Gitlab
+376,shopping,False,10,Summarize customer reviews for Amazon Echo Dot 3rd generation.
+212,shopping_admin,False,4,Find the customer name and email with phone number 555-229-3326
+259,gitlab,False,16,Get me my RSS feed token
+586,shopping,False,15,Rate my recent purchase of Jiffy Corn Muffin Cornbread Mix with 4 stars, using m
+636,reddit,False,9,Post in the most appropriate subreddit and ask for recommendations for DIY toolk
+245,shopping_admin,False,4,Show me the name of the customer who is the most unhappy with Antonia racer tank
+321,shopping,False,6,How much refund I should expect from my order canlled in 2022, including shippin
+383,map,False,2,I am arriving at Pittsburgh Airport. Show me the name of a Hyatt hotel if there 
+100,map,False,4,Where is the nearest Starbucks to Carnegie Mellon, and what is the walking dista
+538,shopping_admin,False,14,Modify the address of order #299 to 456 Oak Avenue, Apartment 5B, New York, NY, 
+42,shopping_admin,False,3,List the top 2 search terms in my store
+573,shopping,False,6,I recently moved, my address is 987 Sycamore Circle, Philadelphia, PA, 19102, up
+417,gitlab,False,7,Go to the merge request on 404 link I have to review, find if the author of the 
+131,shopping_admin,False,8,What's the total number of items sold in the most recent 7 orders?
+426,wikipedia,False,3,Find the page of the place in Pennsylvania where a plane crashed during the Sept
+542,shopping_admin,False,9,Modify the address of order #300 to 987 Cedar Court, Los Angeles, CA, 90012
+509,shopping,False,13,Buy the best rating product from "Men's shoe" category with at least 5 reviews a
+484,gitlab,False,14,Jakub Klinkovský wants to check my dotfile configurations. Please invite him to 
+607,reddit,False,5,Find a subreddit focused on topics related to city Pittsburgh, and post my quest
+193,shopping_admin,False,1,Get the total payment amount of the last 2 completed orders
+444,gitlab,False,11,Update the project site's title to "Title Wanted"
+520,shopping,False,5,Add this product to my wishlist
+11,shopping_admin,False,3,Tell me the the number of reviews that our store received by far that mention te
+153,map,False,4,What is the minimum travel time by car from REI to CMU?
+118,shopping,False,5,I have jaw bruxism problem, show me something that could alleviate the problem.
+339,gitlab,False,7,List all opened issues that report bugs
+372,map,False,4,Pull up the description page of the Costco in Pittsburhg near a river on Map
+216,shopping_admin,False,4,What are the key aspects that the customers don't like about Electra Bra Top
+582,reddit,False,21,Create a new forum named Cyberpunk, with a description of Welcome to the future,
+665,gitlab,False,9,Open an issue to request adding support for MT theme editor in a11y-syntax-highl
+227,shopping,False,3,What is the price range for products from EYZUTAK?
+343,gitlab,False,6,List all opened issues that don't have any labels
+308,gitlab,False,11,Tell me who has made the most contributions, in terms of number of commits, to t
+654,shopping,False,7,Fill the "contact us" form in the site for a refund on the bluetooth speaker I b
+20,map,False,13,Compare the difference in time for walking and driving route from Randyland to C
+285,shopping,False,6,Show the least expensive switch card holder with a minimum storage capacity of 1
+129,shopping_admin,False,2,What's the total number of items sold in the most recent 4 orders?
+162,shopping,False,15,I have a lot of Nintendo Switch game cards now, help me find the best storage op
+430,wikipedia,False,4,Find the page of the college(s) where The Chair was filmed in Pennsylvania other
+554,gitlab,False,10,Create a folder named moive_space in gimmiethat.space repo. Within it, create a 
+65,shopping_admin,False,19,Which customer has completed the fifth most number of orders in the entire histo
+127,shopping_admin,False,3,What brands appear most frequently among the top search terms?
+229,shopping,False,6,What is the price range for products from ugreen?
+306,gitlab,False,3,How many commits did Anthony make between 08/2022-09/2022?
+262,shopping,False,2,I want to browse the products in the Men shoes category
+492,shopping_admin,False,3,Notify Jane Doe in their most recent pending order with message "sorry we are ou
+611,reddit,False,7,Post a review of my recent reading "Harry Potter" in the r/books with my comment
+253,map,False,10,What is the phone number of Carnegie Mellon Café
+337,shopping,False,10,Tell me when I last ordered my bread olive?
+218,map,False,6,Show me the walking distance from nearby hotels to CMU, Pittsburgh that take at 
+5,shopping_admin,False,2,What is the top-1 best-selling product type in Jan 2023
+620,reddit,False,14,Ask for advice about deal with long-distance relationships in a subreddit for re
+54,map,False,6,How long does it take to walk from Carnegie Mellon University to Univ of Pittsbu
+682,reddit,False,31,Find a GitLab repository related to chatGPT and make a Reddit post linking to it
+565,gitlab,False,6,create a repository named TODO that includes a README file with the links to the
+401,reddit,False,27,Change my reddit bio to "Seeking SDE positions"
+395,gitlab,False,8,Fork the Pytorch GAN repo with most stars.
+116,shopping_admin,False,6,Show me the name of the customers who have expressed dissatisfaction with tanks 
+642,reddit,False,11,Post a notice on a virtual meetup for Big little lies enthusiasts on Sep 10th in
+609,reddit,False,31,Find a subreddit focused on topics related to ML, DL, NLP, and post my question,
+231,shopping,False,3,Get the order number of my most recent cancelled order
+355,shopping,False,31,List products from kids' bedding category by descending price
+174,gitlab,False,10,Open my latest updated issue that has keyword "feature" in its title to check if
+507,shopping,False,6,Buy the highest rated product from the Ceiling light category within a budget ab
+463,shopping_admin,False,4,Increase the price of this product by 15%
+145,shopping,False,16,How much I spent on cooking and food shopping during March 2022
+452,gitlab,False,4,set the homepage URL on my GitLab profile to byteblaze.github.io
+536,gitlab,False,31,Follow ['ghost', 'R1kk3r', 'Abishek'] on Gitlab
+419,gitlab,False,17,Set my gitlab status as Enjoying life.
+638,reddit,False,7,Post in the most appropriate subreddit and ask for recommendations for must-have
+594,gitlab,False,9,Create a milestone for the upcoming task of adding a new branch for zsh comprehe
+673,shopping,False,29,Gather the titles of Racing Wheel Overdrive for Xbox X reviews with 1 star ratin
+200,shopping_admin,False,1,Get the billing name of the oldest complete order
+378,map,False,4,Find the parking around CMU main campus
+257,map,False,11,What is the hours of operation of Tokyo Japanese Food Store in Pittsburgh
+333,shopping,False,3,How much did I spend on shopping at One Stop Market on November 2022? They gave 
+588,shopping,False,7,Rate my recent purchase of Foundation For Mattress With Frame Set with 1 stars, 
+624,reddit,False,31,Ask for advice about break-up remedy in a subreddit for relations
+1,shopping_admin,False,3,What is the top-1 best-selling brand in Quarter 1 2022
+561,gitlab,False,9,Create a repo named bafta_awards_nolan with movies that are nominated BAFTA Awar
+405,reddit,False,3,Upvote the newest post in DIY subreddit
+50,shopping,False,3,Today is 6/12/2023. Tell me how many fulfilled orders I have over the past year,
+112,shopping_admin,False,4,Show me the customers who have expressed dissatisfaction with Circe fleece?
+391,gitlab,False,9,Post "close because non reproducible" for the merge request related to focus edg
+159,shopping,False,4,I have a lot of Nintendo Switch game cards now, help me find the best storage op
+61,map,False,2,Tell me the closest restaurant(s) to CMU Sorrells Library
+434,shopping,False,31,Add the product with the lowest per unit price from my open tabs to the shopping
+550,shopping_admin,False,6,Add a new size XXS to blue and purple Nona Fitness Tank
+168,gitlab,False,4,Tell me the full names of the repositories where I made contributions and they g
+123,shopping_admin,False,2,Tell me the reasons why customers like Circe's products
+302,shopping,False,3,Show the most recent out of delivery order
+266,wikipedia,False,4,What's the closest national park to the largest city in Maine?
+181,gitlab,False,9,Open my latest created issue that has theme editor in its title to check if it i
+349,gitlab,False,19,Who else have access to my repo gimmiethat.space, show me their usernames
+615,reddit,False,4,Re-post the image of Bald Eagle in this page to earthporn subreddit and note "fr
+496,shopping_admin,False,8,Update order #299 with the Federal Express tracking number 8974568499
+141,shopping,False,20,How much I spent on food-related shopping during March 2023
+389,gitlab,False,7,Post "Thanks, working on reviews" for the merge request related to octovisuals p
+579,gitlab,False,1,Add the following users to my time tracking tool as guest: ['yjlou']
+456,shopping_admin,False,8,Disable Cora Pant from the site, they are facing some quality issues.
+532,shopping,False,5,Draft a refund message via their "contact us" form for the PS3 remote controller
+590,gitlab,False,31,Create a milestone for the upcoming event of product launch starting on 1/16/202
+360,shopping,False,3,Show me the product names for order number 148.
+204,shopping_admin,False,12,Get the product name and discounted price (low to high) of the most recent compl
+646,reddit,False,10,Post in DIY subreddit about what could midjourney help the correpong field.
+235,shopping,False,3,Get the order number of my most recent  order
+351,shopping,False,5,List products from PS4 accessories category by ascending price
+199,shopping_admin,False,4,Get the order ID of the newest pending order
+170,gitlab,False,2,Tell me the full names of the repositories where I made contributions and they g
+297,gitlab,False,9,Show me the command to clone the most stared Covid location tracker with SSH.
+503,shopping_admin,False,4,Make all rocco gym tank as out of stock
+548,shopping_admin,False,5,Add a new color blue to size S and M of Frankie Sweatshirt
+32,map,False,4,I will arrive Pittsburgh Airport soon. Provide the name of a Hilton hotel in the
+316,gitlab,False,2,List the name of the top 3 contributors to facebook's guide on building react ap
+272,shopping,False,3,Show me products under $78 in "children dental care" category
+239,shopping,False,20,I am doing a market survey for one stop market, show me the most expensive produ
+195,shopping_admin,False,6,Get the total payment amount of the last 5 pending orders
+601,reddit,False,6,Post my question, "is car necessary in NYC", in a subreddit where I'm likely to 
+482,gitlab,False,0,yjlou wants to check my dotfile configurations. Please invite him to the repo as
+420,gitlab,False,31,Set my gitlab status as Playing Badminton.
+544,shopping_admin,False,11,Update the description of Selena Yoga Hoodie to highlight the real user positive
+137,map,False,7,What is the estimated driving time between the city where the Liberty Bell is lo
+575,shopping,False,20,I recently moved, my address is 222 Redwood Rise, Suite 300, Seattle, WA, 98101,
+411,gitlab,False,12,Make the LICENSE of byteblaze/cloud-to-butt to MIT license.
+106,gitlab,False,14,Display the list of issues in the umano/AndroidSlidingUpPanel repository that ha
+385,shopping,False,9,List the customer names who thinks EYZUTAK phone cases are of good looking
+243,shopping_admin,False,4,Show me the email address of the customer who is the most unhappy with Circe fle
+327,shopping,False,12,Show me the "iphone 12 phone case" listings by name alphabetically.
+630,reddit,False,8,Ask for product recommendations for noise-cancelling headphones within a budget 
+164,shopping,False,2,What are the main criticisms of this product? Please extract the relevant senten
+283,shopping,False,4,Look up the most recent models of XBox controllers released between 2020-2021?
+473,shopping_admin,False,5,Cancel order 301
+26,shopping,False,5,List out reviewers, if exist, who mention about complain of the customer service
+438,shopping,False,4,I previously ordered some a TV stand sometime around sep 2022 and later cancelle
+619,reddit,False,11,Re-post the image of costume contest in this page to funny subreddit and note "f
+652,reddit,False,10,Reply to the post with my comment "???"
+221,map,False,4,I am at CMU Pittsburgh, how long it takes to the nearest USPS postal office with
+345,shopping_admin,False,20,How many reviews our shop received in Apr 2023?
+663,gitlab,False,23,Open an issue to ask their plan on supporting Llama and other llama family model
+584,reddit,False,6,Create a new forum named Karaoke, with a description of Place for Karaoke lovers
+628,reddit,False,7,Create a discussion post about "long distance relationship" in a relevant subred
+210,shopping_admin,False,4,Find the customer name and email with phone number 2065555555
+155,map,False,4,What is the minimum travel time by car from Animal Rescue League of Pittsburgh t
+409,reddit,False,31,Reply to the manager of the website in this post with "thanks! I am a big fan of
+17,map,False,10,Compare the time for walking and driving route from AMC Waterfront to Carnegie M
+526,gitlab,False,22,Star the top three most stared repos in Gitlab
+40,map,False,4,Check if the amc theatre in pittsburgh can be reached in one hour by car from ho
+571,shopping,False,11,I recently moved, my address is 231 Willow Way, Suite 100, Chicago, IL, 60601, u
+415,gitlab,False,4,Go to the merge request on verification functions I have to review, find if the 
+149,shopping,False,6,What is the color configuration of the artifical plants I bought Feb 2023
+381,map,False,2,Find the hotel around Carnegie Music Hall
+102,gitlab,False,9,Display the list of issues in the a11yproject/a11yproject.com repository that ha
+247,shopping_admin,False,4,Show me the email address of the customer who is the most unhappy with the style
+323,shopping,False,4,How much refund I should expect from my order canlled in 2022/03? I only kept th
+368,shopping,False,2,find discounted items.
+634,reddit,False,8,Ask for product recommendations for used iphone within a budget of $1000 in r/ip
+359,shopping,False,3,Show me the order date for order number 148.
+191,shopping,False,3,Tell me the total cost of my latest processing order?
+486,shopping_admin,False,31,Change the page title of "404 Not Found" page on my site to "Bruh bro you clicke
+424,wikipedia,False,4,Find the page of the place where Mr. Rogers was filmed on the map.
+540,shopping_admin,False,6,Modify the address of order #301 to 321 Birch Boulevard, Suite 200, Dallas, TX, 
+133,gitlab,False,3,How many commits did Eric make to a11yproject on 3/2?
+178,gitlab,False,3,Open my latest created issue that has better in its title to check if it is clos
+580,reddit,False,0,Create a new forum named sci_fi, with a description of A wild place for sci-fi e
+667,gitlab,False,31,Submit a merge request for dialog-component branch to be merged into bump-doctoc
+214,shopping_admin,False,9,What are the key aspects that the customers don't like about Zing Jump Rope
+399,reddit,False,6,Change my reddit bio to "I am a robot"
+58,map,False,4,Tell me the closest cafe(s) to CMU Hunt library
+446,gitlab,False,6,Assign the issue regarding 404 in a11yproject to Roshanjossey.
+522,gitlab,False,4,Fork all repos from facebook.
+569,gitlab,False,17,Invite Benoît and Abishek as collaborator to my HTML5 markup extention repo
+13,shopping_admin,False,7,Tell me the the number of reviews that our store received by far that mention te
+287,map,False,4,How much time does it take from Pittsburgh to Philadelphia by car?
+160,shopping,False,6,I have a lot of Nintendo Switch game cards now, help me find the best storage op
+22,shopping,False,2,List out reviewers, if exist, who mention about under water photo
+558,gitlab,False,31,Create a repo named nolan_young_fans with movies directed by Christopher Nolan a
+656,shopping,False,14,Fill the "contact us" form in the site for a refund on the remote controller I b
+225,shopping,False,10,What do customers say about brush from sephora
+341,gitlab,False,3,List all opened issues requesting new features
+483,gitlab,False,11,Koushik wants to check my dotfile configurations. Please invite him to the repo 
+600,reddit,False,7,Post my question, "what is the recommended console to buy these days", in a subr
+238,shopping,False,19,I am doing a market survey for one stop market, show me the most expensive produ
+194,shopping_admin,False,2,Get the total payment amount of the last 5 completed orders
+317,gitlab,False,4,List the name and number of commits of the top 3 contributors to metaseq repo, r
+273,shopping,False,2,Show me products under $199 in "furtiture with accent" category
+136,gitlab,False,4,How many commits did Steven Woodson make to a11y-webring.club on 2/6/2023?
+421,gitlab,False,10,Set my gitlab status as Resting due to leg injury.
+545,shopping_admin,False,7,Update the description of Radiant Tee to highlight the real user positive review
+384,shopping,False,7,List the customer names who complain about the quality of EYZUTAK phone cases
+107,shopping_admin,False,11,Presents the monthly count of successful orders from May to December 2022 in MM:
+45,gitlab,False,2,Check out the most recent open issues
+574,shopping,False,20,I recently moved, my address is 111 Magnolia Path, Atlanta, GA, 30303, update my
+631,reddit,False,19,Ask for product recommendations for running shoes within a budget of $100 in r/s
+242,shopping,False,7,I am doing a market survey for one stop market, show me the most expensive produ
+209,shopping_admin,False,4,Find the customer name and email with phone number 2137418080
+27,reddit,False,5,Tell me the count of comments that have received more downvotes than upvotes for
+439,shopping,False,6,I previously ordered some a cat t-shirt during 2022 and later cancelled. Can you
+282,shopping,False,3,List the full product names of slide slippers from Nike and tell me the price ra
+165,shopping,False,2,What are the main criticisms of this product? Please extract the relevant senten
+220,map,False,6,Show me the walking distance from nearby hotels to Gardner Steel Conference Cent
+653,shopping,False,4,Fill the "contact us" form in the site for a refund on the phone screen protecto
+618,reddit,False,2,Re-post the image of Wife's costume in this page to funny subreddit and note "fr
+375,shopping_admin,False,7,Preview the Magento Luma theme for my shop
+211,shopping_admin,False,4,Find the customer name and email with phone number 8015551212
+585,shopping,False,17,Rate my recent purchase of floor lamp with 5 stars, using my nickname Emma Lopez
+629,reddit,False,31,Create a discussion post about "Fun thing to do in Pittsburgh" in a relevant sub
+662,gitlab,False,10,Open an issue to report experiencing "OSError: [Errno 98] Address already in use
+443,gitlab,False,6,Update the project site's title to "Not an interesting site"
+408,reddit,False,3,Upvote the newest post in explain like im 5 subreddit
+16,map,False,13,Compare the time for walking and driving route from 5000 Fifth Avenue, Pittsburg
+154,map,False,31,What is the minimum travel time by car from CMU gates building to Schenley park?
+103,gitlab,False,11,Display the list of issues in the kkroening/ffmpeg-python repository that have l
+148,shopping,False,9,What is the color configuration of the picture frame I bought Sep 2022
+570,gitlab,False,1,Invite Jakub K, Alex Dills, Alex Hutnik and Benoît Blanchon as collaborator to m
+414,gitlab,False,2,Make the LICENSE of byteblaze/dotfiles to MIT license.
+41,shopping_admin,False,3,List the top 1 search terms in my store
+635,reddit,False,8,Post in the most appropriate subreddit and ask for recommendations for noise-can
+246,shopping_admin,False,7,Show me the name of the customer who is the most unhappy with Chloe tank
+322,shopping,False,2,How much refund I should expect from my order canlled in May 2023 if I cannot ge
+487,shopping_admin,False,31,Change the page title of "Enable Cookies" page on my site to "Cookie monster com
+313,shopping,False,25,Which number to call for the customer service?
+277,shopping,False,2,Search for "batteries for iphone 13"
+358,shopping,False,12,Show me the shipping method for order number 187.
+179,gitlab,False,4,Open my latest created issue that has feature in its title to check if it is clo
+132,gitlab,False,3,How many commits did kilian make to a11yproject on 3/5/2023?
+425,wikipedia,False,5,Find the page of the longest bridge in the Western hemisphere on the map.
+541,shopping_admin,False,7,Modify the address of order #125 to 654 Elm Drive, Apartment 12, Miami, FL, 3310
+371,map,False,4,Pull up the description page of Piada restaurant near Pitt on Map
+215,shopping_admin,False,6,What are the key aspects that the customers don't like about Circe ice fleece
+666,gitlab,False,29,Submit a request to merge dialog-component branch into dialog branch, assign Car
+581,reddit,False,5,Create a new forum named cmu_lti, with a description of Language Technologies In
+568,gitlab,False,31,Invite Abishek and Vinta as collaborator to a11yproject.com repo
+12,shopping_admin,False,5,Tell me the the number of reviews that our store received by far that mention te
+59,map,False,2,Tell me the closest restaurant(s) to CMU Hunt library
+447,gitlab,False,3,Assign the issue regarding linking to an accessibility statement in a11y-webring
+523,gitlab,False,27,Star the top five most stared repos in Gitlab
+398,gitlab,False,4,Fork all source repos from Akilesh Kannan
+68,reddit,False,2,Among the top 10 post in "books" forum, show me the author name and the book nam
+23,shopping,False,2,List out reviewers, if exist, who mention about good fingerprint resistant
+559,gitlab,False,18,Create a repo named nolan_followers with career timeline of Christopher Nolan in
+161,shopping,False,13,I have a lot of Nintendo Switch game cards now, help me find the best storage op
+286,shopping,False,8,Show the least expensive ssd hard drive with a minimum storage capacity of 1TB.
+224,map,False,6,I am at CMU Pittsburgh, how long it takes to drive to the nearest wendys
+340,gitlab,False,3,List all opened issues that report bugs
+657,shopping,False,9,Fill the "contact us" form in the site for a refund on the speaker I bought, sta
+64,shopping_admin,False,3,Which customer has placed 2 orders in the entire history?
+431,shopping,False,31,Add the product with the lowest per unit price from my open tabs to the shopping
+555,gitlab,False,21,Create a folder named funny_pic in gimmiethat.space repo. Within it, create a fi
+610,reddit,False,29,Post a review of my recent reading "To Kill a Mockingbird by Harper Lee" in the 
+493,shopping_admin,False,3,Notify Grace Nguyen in their most recent pending order with message "sorry we ar
+307,gitlab,False,5,How many commits did Nic make in April 2021?
+263,shopping,False,6,I want to browse the products in the Woman clothing category
+184,shopping_admin,False,7,Give me the name of the products that have 0 units left
+228,shopping,False,5,What is the price range for products from sephora?
+4,shopping_admin,False,7,What are the top-3 best-selling product in Jan 2023
+621,reddit,False,8,Ask for advice about cheat in a subreddit for relations
+219,map,False,13,Show me the walking distance from nearby hotels to Pittsburgh airport that take 
+252,map,False,2,Tell me the coordinates of Tokyo Japanese Food Store in Pittsburgh in DD format
+336,shopping,False,31,Tell me when I last ordered my conditioner?
+117,shopping,False,3,What is the date when I made my first purchase on this site?
+394,gitlab,False,11,Fork 2019-nCov.
+564,gitlab,False,7,create a repository named live_a_life that includes a README file with the links
+400,reddit,False,19,Change my reddit bio to "Pro Python Developer with 20 years of Experience"
+55,map,False,4,How long does it take to walk from the starbuck near CMU to Chatham university?
+683,reddit,False,4,Find a GitLab repository related to metaseq and make a Reddit post linking to it
+230,shopping,False,7,What is the price range for products from Perricone MD?
+354,shopping,False,31,List products from living room furtniture category by descending price
+608,reddit,False,31,Find a subreddit focused on topics related to city lives in DMV area, and post m
+643,reddit,False,31,Post a notice on a virtual meetup for racing cars enthusiasts on Oct 21st in the
+506,shopping,False,6,Buy the highest rated product from the meat substitute category within a budget 
+462,shopping_admin,False,4,Increase the price of this product by 10%
+429,wikipedia,False,8,Find the page of the colleges where The Chair was filmed in Pittsburgh on the ma
+37,map,False,7,Check if the police station in pittsburgh can be reached in one hour by car from
+175,gitlab,False,4,Open my latest updated issue that has keyword "dependency" in its title to check
+292,shopping_admin,False,3,Tell me the total number of cancellations of the customer who has the most cance
+418,gitlab,False,21,Set my gitlab status as Busy.
+453,shopping_admin,False,7,Disable Teton pullover hoodie from the site, they are facing some quality issues
+537,gitlab,False,31,Follow ['Jakub Klinkovsk', 'convexegg', 'Vinta Chen', 'yjlou', 'Abishek S'] on G
+144,shopping,False,11,How much I spent on food shopping during from mid Jan to the end Jan 2023
+365,map,False,5,Measure distance between Carnegie Music Hall and UPMC Shadyside by walking
+201,shopping_admin,False,4,Get the customer name of the earliest fraud suspect order
+672,shopping,False,5,Gather the titles of Nintendo Switch Fortnite Wildcat Console EU reviews with 3 
+639,reddit,False,9,Post in the most appropriate subreddit and ask for recommendations for used ipho
+595,reddit,False,18,Open the thread of a trending post on the forum "space" and subscribe.
+589,shopping,False,10,Rate my recent purchase of Mini Wireless Bluetooth Speaker with 2 stars, using m
+625,reddit,False,8,Create a discussion post about "the effectiveness of online learning" in a relev
+0,shopping_admin,False,1,What is the top-1 best-selling product in 2022
+332,shopping,False,3,How much I spend each month from Jan to the end of March 2023 on shopping at One
+379,map,False,2,Find the hotel around CMU main campus
+158,shopping,False,9,I have a lot of Nintendo Switch game cards now, help me find the best storage op
+113,shopping_admin,False,4,Show me the customers who have expressed dissatisfaction with Olivia zip jacket?
+51,shopping,False,3,Today is 6/12/2023. Tell me how many fulfilled orders I have over the past six m
+560,gitlab,False,9,Create a repo named nolan_academy_awards with movies that won Academy Awards by 
+404,reddit,False,21,Upvote the newest post in books subreddit
+122,shopping_admin,False,12,Tell me the reasons why customers like Olivia zip jacket
+169,gitlab,False,14,Tell me the full names of the repositories where I made contributions and they g
+435,shopping,False,31,Add the product with the lowest per unit price from my open tabs to the shopping
+551,shopping_admin,False,7,Add new size 30 and 31 to all color variants of Diana Tights
+60,map,False,2,Tell me the closest restaurant(s) to CMU Posner Hall
+497,shopping_admin,False,7,Update order #307 with the DHL tracking number 24353446464
+180,gitlab,False,3,Open my latest created issue that has dependency in its title to check if it is 
+348,shopping_admin,False,13,How many reviews our shop received in May 2023?
+303,gitlab,False,4,How many commits did Kilian make durning 2023?
+267,wikipedia,False,4,What's the closest national park to the hometown of Stephen King? How long it ta
+457,shopping_admin,False,5,Disable Karmen yoga pants from the site, they are facing some quality issues.
+533,gitlab,False,31,Follow ['convexegg', 'yjlou'] on Gitlab
+49,shopping,False,3,Today is 6/12/2023. Tell me how many fulfilled orders I have over the past four 
+578,gitlab,False,19,Add the following users to repo millennials-to-snake-people as reporter: ['yjlou
+140,map,False,4,What is the estimated driving time between the city of Niagara Falls and the cit
+388,shopping,False,2,Who gave 1 or 2 stars for phone cases from EYZUTAK
+361,shopping,False,3,Show me the order statuses for order number 170 and 189.
+205,gitlab,False,2,How many commits did kilian make on 3/5/2023?
+591,gitlab,False,11,Create a milestone for the upcoming practice of collective code review starting 
+676,shopping_admin,False,5,Lookup orders that are suspected of being fraudulent
+234,shopping,False,3,Get the order number of my most recent on hold order
+647,reddit,False,10,Post in technology forum about what could open-source LLMs help the correpong fi
+549,shopping_admin,False,31,Add a new size XXXL to green Minerva LumaTech V-Tee
+33,map,False,4,I will arrive Pittsburgh Airport soon. Provide the name of a Hilton hotel in the
+502,shopping_admin,False,6,Make all Gobi HeatTec Tee as out of stock
+466,shopping,False,9,Add 2 Hawaiian Bamboo Orchid Roots #zc50 - by Discount Hawaiian Gifts to my wish
+296,gitlab,False,5,Show me the command to clone the best GAN python implementation with SSH.
+171,gitlab,False,1,Tell me the full names of the repositories where I made contributions and they g

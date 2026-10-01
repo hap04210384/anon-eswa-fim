@@ -1,0 +1,13 @@
+{
+  "source": "Agent-Eval-Refine/Agent-Trajectories trajectories.zip (WebArena GPT-4 CoT official release 2), via hf-mirror",
+  "parsed": 809,
+  "tasks_total": 809,
+  "tasks_mine": 647,
+  "tasks_eval": 162,
+  "alphabet_size": 19,
+  "vocab_size": 12,
+  "mine_failing": 569,
+  "mine_success": 78,
+  "eval_failing": 140,
+  "eval_success": 22
+}

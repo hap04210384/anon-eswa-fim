@@ -1,0 +1,23 @@
+task,site,resolved,n_steps,intent
+757,map,True,7,Show me the path and travel time from home of the 1980 Super Bowl champions to h
+72,map,True,2,What is the zip code of Yale University?
+97,map,True,4,Tell me the distance to drive from Carnegie Mellon University to the top compute
+772,shopping_admin,True,9,Delete all pending negative reviews for Circe fleece
+773,shopping_admin,True,14,Delete all pending negative reviews
+711,shopping_admin,True,6,Create a product view report from 07/05/2021 to 05/31/2023
+77,shopping_admin,True,3,What is the total count of Pending reviews amongst all the reviews?
+756,gitlab,True,16,Create a private JEKYLL repository called "11711_gitlab" using the right templat
+73,map,True,2,What is the zip code of Columbia University?
+811,gitlab,True,12,Assign the issue regarding 404 in a11yproject to myself.
+94,shopping_admin,True,3,Telll me the grand total of invoice 000000001.
+784,gitlab,True,4,Tell me the email address of the contributor who has the most commits to branch 
+90,map,True,6,Which US states border Pennsylvania?
+84,map,True,4,From my stay at DoubleTree by Hilton New York Downtown, what's the estimated dri
+71,map,True,2,What is the zip code of Chatham University?
+693,shopping,True,16,Draft an email to the shop owner via their contact us function for a coupon as m
+737,wikipedia,True,5,Show me the way from Carnegie Mellon University to the home stadium of Philadelp
+70,map,True,2,What is the zip code of Carnegie Mellon University?
+95,shopping_admin,True,3,Telll me the grand total of invoice 000000002.
+785,gitlab,True,6,Tell me the email address of the contributor who has the most commits to branch 
+741,wikipedia,True,6,Show me the way from Carnegie Mellon University to the home stadium of Boston ho
+712,shopping_admin,True,6,Create a coupons report from 05/01/2021 to 05/15/2023

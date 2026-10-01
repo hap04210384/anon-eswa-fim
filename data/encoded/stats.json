@@ -1,0 +1,13 @@
+{
+  "files_on_disk": 5000,
+  "parsed": 5000,
+  "instances_total": 500,
+  "instances_mine": 400,
+  "instances_eval": 100,
+  "alphabet_size": 29,
+  "vocab_size": 58,
+  "mine_failing": 997,
+  "mine_success": 3003,
+  "eval_failing": 269,
+  "eval_success": 731
+}

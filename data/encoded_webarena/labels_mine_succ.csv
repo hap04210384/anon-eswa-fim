@@ -1,0 +1,79 @@
+task,site,resolved,n_steps,intent
+134,gitlab,True,3,How many commits did kilian make to a11yproject on 3/1/2023?
+678,shopping_admin,True,8,Lookup orders that are canceled
+514,shopping,True,4,Add a white desk to my wish list.
+156,gitlab,True,3,Checkout merge requests assigned to me
+258,gitlab,True,2,See all public projects
+377,map,True,2,Find the resturants around CMU ArtPark Lab
+311,gitlab,True,4,Tell me who has made the most contributions, in terms of number of commits, to t
+275,shopping,True,2,Search for "xbox"
+152,map,True,4,What is the minimum travel time by car from Schenley park to Upitt?
+128,shopping_admin,True,1,What's the total number of items sold in the most recent 2 orders?
+305,gitlab,True,2,How many commits did Philip make in 2023/1?
+186,shopping_admin,True,3,Give me the product names and the sizes of the products that have 2-3 units left
+478,gitlab,True,5,Set up a new, empty repository with the name webagent?
+518,shopping,True,2,Add this product to my wishlist
+593,gitlab,True,9,Create a milestone for the upcoming task of merging all branches to main startin
+294,gitlab,True,15,Show me the command to clone ChatGPT with SSH.
+260,shopping,True,0,I want to browse the products in the Video Game category
+479,gitlab,True,8,Set up a new, empty repository with the name awesome_webagent?
+397,gitlab,True,8,Fork MetaSeq.
+680,shopping_admin,True,6,Lookup orders that are on hold
+278,shopping,True,2,Search for "green tea bag for weight loss"
+596,reddit,True,6,Open the thread of a trending post on the forum "books" and subscribe.
+393,gitlab,True,25,Post "lgtm" for the merge request related to fixing the broken links in byteblaz
+519,shopping,True,4,Add this product to my wishlist
+329,shopping,True,3,How much I spend on 4/19/2023 on shopping at One Stop Market?
+465,shopping,True,4,Add Tide PODS Spring Meadow Scent HE Turbo Laundry Detergent Pacs, 81 Count to m
+295,gitlab,True,4,Show me the command to clone metaseq with SSH.
+299,shopping,True,4,Show the most recent cancelled order
+679,shopping_admin,True,8,Lookup orders that are completed
+515,shopping,True,5,Add a white computer desk to my wish list.
+157,shopping_admin,True,7,Show all customers
+661,gitlab,True,8,Open an issue to report the issue of connection refused in ChatGPT.
+38,map,True,4,Check if the duquesne university in pittsburgh can be reached in one hour by car
+310,gitlab,True,6,Tell me who has made the most contributions, in terms of number of commits, to t
+274,shopping,True,2,Search for "usb wifi"
+511,shopping,True,4,Add a laundry detergent to my wish list.
+475,gitlab,True,5,Set up a new, empty repository with the name chatgpt_plugin?
+185,shopping_admin,True,11,Give me the brand of the products that have 3 units left
+293,gitlab,True,4,Show me the command to clone Super_Awesome_Robot with SSH.
+428,wikipedia,True,2,Find the page of the undergrad college of the person who developed the Nash equi
+36,map,True,28,Check if the social security administration in pittsburgh can be reached in one 
+364,map,True,10,Measure distance between Carnegie Mellon University and UPMC Shadyside by walkin
+48,shopping,True,3,Today is 6/12/2023. Tell me how many fulfilled orders I have over the past three
+677,shopping_admin,True,8,Lookup orders that are processing
+467,shopping,True,25,Add HONGJ Hawaiian Beach Outfits Set for Mens, Summer Tropical Tree Printed Rela
+44,gitlab,True,2,Check out my todos
+208,shopping_admin,True,5,Find the customer name and email with phone number +1 2058812302
+517,shopping,True,2,Add this product to my wishlist
+374,shopping_admin,True,7,Preview the Magento Blank theme for my shop
+598,reddit,True,4,Open the thread of a trending post on the forum "pittsburgh" and subscribe.
+312,gitlab,True,5,Tell me who has made the most contributions, in terms of number of commits, to t
+276,shopping,True,2,Search for "switch accessories"
+605,reddit,True,7,Find a subreddit focused on topics related to gaming consoles, and post my quest
+370,map,True,3,Pull up the description page of Carnegie Mellon University on Map
+151,map,True,4,What is the minimum travel time by car from CMU to University of Pittsburgh?
+513,shopping,True,6,Add a chair to my wish list.
+477,gitlab,True,5,Set up a new, empty repository with the name awesome_program_aided_reasoning?
+189,shopping,True,3,Tell me the total cost of my latest pending order?
+410,reddit,True,31,Reply to the first reply in this post with "don't panic"
+326,shopping,True,17,Show me the "Canon photo printer" listings by search relevance, from most to lea
+516,shopping,True,2,Add this product to my wishlist
+344,shopping_admin,True,4,How many reviews our shop received by far?
+527,gitlab,True,5,Star the top one most stared repos in Gitlab
+380,map,True,2,Find the bar around Carnegie Music Hall
+599,reddit,True,12,Open the thread of a trending post on the forum "machine learning" and subscribe
+369,map,True,3,Pull up the description page of Carnegie Music Hall on Map
+604,reddit,True,5,Post my question, "what is the SOTA web navigation agent repo", in a subreddit w
+190,shopping,True,3,Tell me the total cost of my latest complete order?
+150,shopping,True,15,What is the price configuration of the fake tree I bought Jan 2023
+512,shopping,True,4,Add a toothpaste to my wish list.
+476,gitlab,True,6,Set up a new, empty repository with the name awesome_llm_reading?
+188,shopping,True,3,Tell me the total cost of my latest cancelled order?
+126,shopping,True,3,What is the price range of Canon photo printer in the One Stop Market?
+256,map,True,3,What is the website of Carnegie art museum in pittsburgh
+390,gitlab,True,10,Post "lgtm" for the merge request related to semantic HTML post in a11yproject/a
+614,reddit,True,31,Post a review of my recent reading "Gone with the wind" in the r/books with my c
+350,gitlab,True,19,Who else have access to my repo prism-theme, show me their usernames
+198,shopping_admin,True,4,Get the customer name of the most recent cancelled order

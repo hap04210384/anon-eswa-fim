@@ -1,0 +1,12 @@
+1	click:ok
+2	type:ok
+3	stop:ok
+4	go_back:ok
+5	none:err
+6	scroll:ok
+7	goto:ok
+8	new_tab:ok
+9	press:ok
+10	hover:ok
+11	page_focus:ok
+12	go_forward:ok

@@ -1,0 +1,16 @@
+# build outputs
+x64/
+.vs/
+ipch/
+*.user
+*.suo
+__pycache__/
+*.pyc
+
+# raw corpora (download scripts provided; see data/README.md)
+*.zip
+data/raw/
+
+# OS
+Thumbs.db
+.DS_Store
