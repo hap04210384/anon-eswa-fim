@@ -1,8 +1,8 @@
 # anytime-failure-mining
 
-Companion replication package for the paper **"Threshold-Free Anytime Discovery
-of Recurrent Failure Patterns in the Trajectories of Large Language Model
-Agents"** (under review). This repository contains the complete pipeline,
+Companion replication package for the paper **"Threshold-Free Anytime
+Pattern-Stream Discovery of Recurrent Failures in the Trajectories of Large
+Language Model Agents"** (under review). This repository contains the complete pipeline,
 encoded datasets, and all result files reported in the paper.
 
 ## Contents
